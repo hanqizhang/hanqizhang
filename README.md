@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Great games I've played recently: Horizon: Forbidden West, Hades, Detroit: Become Human, Pokemon Mystery Dungeon DX, Zelda: BOTW...
-- 🌱 I’m currently learning systems neuroscience, and functional analysis.
+- 🌱 I’m currently learning systems neuroscience, and stochastic processes.
