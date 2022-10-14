@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Great games I've played recently: Sekiro, Horizon: Forbidden West, Hades, Detroit: Become Human, Zelda: BOTW...
-- 🌱 I’m currently reading Bayesian Brain: Probabilistic Approaches to Neural Coding
+- 🔭 
+- 🌱 I’m currently learning: computational neuroscience and probabilistic time series
