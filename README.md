@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 
-- 🌱 I’m currently learning: computational neuroscience and probabilistic time series
+- 🌱 I was recently reading: In Consciousness We Trust by Hakwan Lau
