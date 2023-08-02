@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 
-- 🌱 I was recently reading: In Consciousness We Trust by Hakwan Lau
+- 🌱 I was recently reading: In Consciousness We Trust by Hakwan Lau, and the Hidden Girl by Ken Liu
